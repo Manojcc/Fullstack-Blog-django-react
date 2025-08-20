@@ -1,7 +1,5 @@
 # Full-Stack Blog App (React + Django)
 
-This is a minimal template that satisfies the assessment:
-
 - Email/password auth (JWT)
 - Only logged-in users can create/edit/delete blogs
 - Public blog list (paginated) and detail pages
@@ -96,5 +94,4 @@ The frontend reads `count` to render prev/next.
 ## 7) Scripts
 - `server/manage.py` typical Django commands
 - `client` uses Vite scripts: `dev`, `build`, `preview`
-
-Happy shipping!
+  
